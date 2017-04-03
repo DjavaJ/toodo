@@ -1,0 +1,23 @@
+{
+    "toodoApp": {
+        "tasks" : {
+            "home": {
+                "title": "Tasks",
+                "createLabel": "Create a new Tasks",
+                "createOrEditLabel": "Create or edit a Tasks"
+            },
+            "created": "A new Tasks is created with identifier {{ param }}",
+            "updated": "A Tasks is updated with identifier {{ param }}",
+            "deleted": "A Tasks is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Tasks {{ id }}?"
+            },
+            "detail": {
+                "title": "Tasks"
+            },
+            "name": "Name",
+            "isDone": "Is Done",
+            "item": "Item"
+        }
+    }
+}
